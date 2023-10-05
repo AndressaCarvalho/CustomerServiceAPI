@@ -14,7 +14,7 @@ O projeto consiste em uma API para solicitações de clientes, desenvolvida em S
     <img src="https://img.shields.io/badge/build-aprovado-brightgreen" />
     <img src="https://img.shields.io/badge/versão-v1.0.0-blue" />
     <img src="https://img.shields.io/badge/último%20atualização-outubro%202023-lightblue" />
-    <img src="https://img.shields.io/badge/linguagem-java%23-orange" />
+    <img src="https://img.shields.io/badge/linguagem-java-orange" />
     <img src="https://img.shields.io/badge/plataforma-spring%20boot-orange" />
     <img src="https://img.shields.io/badge/Inglês%20(US)-100%25-ff69b4" />
 </h4>
@@ -151,7 +151,6 @@ Retorna um time pelo seu código.
 |          Nome | Obrigatoriedade |  Tipo   | Descrição                                                                                                                                                           |
 | -------------:|:--------:|:-------:| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     `id` | obrigatório | int  | Identificador do time de atendimento.                                                                     |
-</br>
 
 ---
 
