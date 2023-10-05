@@ -81,6 +81,7 @@ Cria uma novo solicitação de atendimento, ou adiciona o cliente à fila de esp
 |     `customer` | obrigatório | int  | Identificador do cliente que está abrindo a solicitação de atendimento.
 |     `subject` | obrigatório | int  | Identificador do tipo de solicitação de atendimento (1 - Problemas com cartão; 2 - Contratação de empréstimo; 3 - Outros assuntos).
 </br>
+</br>
 
 ### GET customerservice/queue
 Retorna a fila completa.
